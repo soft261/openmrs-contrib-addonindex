@@ -7087,7 +7087,18 @@
         },
         {
           "uid": "org.openmrs.module.uilibrary",
-          "version": "2.0.4"
+          "version": "2.0.4",
+          "links": [
+            {
+              "rel": "documentation",
+              "href": "https://github.com/openmrs/openmrs-module-uilibrary/blob/master/README",
+              "title": "GitHub README"
+            },
+            {
+              "rel": "source",
+              "href": "https://github.com/openmrs/openmrs-module-uilibrary"
+            }
+          ]
         },
         {
           "uid": "org.openmrs.module.uiframework",
