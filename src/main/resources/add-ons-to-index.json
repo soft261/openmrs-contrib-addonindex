@@ -6591,7 +6591,17 @@
         },
         {
           "uid": "org.openmrs.module.admin-ui-module",
-          "version": "1.2.3"
+          "version": "1.2.3",
+          "links": [
+            {
+              "rel": "documentation",
+              "href": "https://wiki.openmrs.org/display/docs/Admin+UI+Module"
+            },
+            {
+              "rel": "source",
+              "href": "https://addons.openmrs.org/show/org.openmrs.module.admin-ui-module"
+            }
+          ]
         },
         {
           "uid": "org.openmrs.module.allergy-ui-module",
