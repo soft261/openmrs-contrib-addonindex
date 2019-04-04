@@ -6595,7 +6595,8 @@
           "links": [
             {
               "rel": "documentation",
-              "href": "https://wiki.openmrs.org/display/docs/Admin+UI+Module"
+              "href": "https://wiki.openmrs.org/display/docs/Admin+UI+Module",
+              "title": "OpeMRS Wiki"
             },
             {
               "rel": "source",
