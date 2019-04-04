@@ -6758,7 +6758,18 @@
         },
         {
           "uid": "org.openmrs.module.uiframework",
-          "version": "3.13.0"
+          "version": "3.13.0",
+          "links": [
+            {
+              "rel": "documentation",
+              "href": "https://wiki.openmrs.org/display/docs/UI+Framework",
+              "title": "OpenMRS Wiki"
+            },
+            {
+              "rel": "source",
+              "href": "https://github.com/openmrs/openmrs-module-uiframework"
+            }
+          ]
         },
         {
           "uid": "org.openmrs.module.uilibrary",
