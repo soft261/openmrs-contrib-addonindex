@@ -6514,6 +6514,10 @@
           "rel": "documentation",
           "href": "https://wiki.openmrs.org/display/docs/Notifiable+Condition+Detector+%28NCD%29+Module",
           "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://github.com/thomasshunter/openmrs-module-ncd"
         }
       ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
