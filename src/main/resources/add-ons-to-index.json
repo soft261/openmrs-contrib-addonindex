@@ -5562,17 +5562,6 @@
           "name": "Darius Jazayeri"
         }
       ],
-      "links": [
-        {
-          "rel": "documentation",
-          "href": "https://wiki.openmrs.org/display/docs/Moca",
-          "title": "OpenMRS Wiki"
-        },
-        {
-          "rel": "source",
-          "href": "https://github.com/openmrs/openmrs-module-referenceapplication"
-        }
-      ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
       "bintrayPackageDetails": {
         "owner": "openmrs",
@@ -6602,18 +6591,7 @@
         },
         {
           "uid": "org.openmrs.module.admin-ui-module",
-          "version": "1.2.3",
-          "links": [
-            {
-              "rel": "documentation",
-              "href": "https://wiki.openmrs.org/display/docs/Admin+UI+Module",
-              "title": "OpeMRS Wiki"
-            },
-            {
-              "rel": "source",
-              "href": "https://addons.openmrs.org/show/org.openmrs.module.admin-ui-module"
-            }
-          ]
+          "version": "1.2.3"
         },
         {
           "uid": "org.openmrs.module.allergy-ui-module",
@@ -6769,18 +6747,7 @@
         },
         {
           "uid": "org.openmrs.module.uiframework",
-          "version": "3.13.0",
-          "links": [
-            {
-              "rel": "documentation",
-              "href": "https://wiki.openmrs.org/display/docs/UI+Framework",
-              "title": "OpenMRS Wiki"
-            },
-            {
-              "rel": "source",
-              "href": "https://github.com/openmrs/openmrs-module-uiframework"
-            }
-          ]
+          "version": "3.13.0"
         },
         {
           "uid": "org.openmrs.module.uilibrary",
@@ -7098,7 +7065,7 @@
           "links": [
             {
               "rel": "documentation",
-              "href": "https://wiki.openmrs.org/display/docs/User+Interface+Modules",
+              "href": "https://wiki.openmrs.org/display/docs/EMR+Monitor+Module",
               "title": "OpenMRS Wiki"
             },
             {
@@ -7109,18 +7076,7 @@
         },
         {
           "uid": "org.openmrs.module.uilibrary",
-          "version": "2.0.4",
-          "links": [
-            {
-              "rel": "documentation",
-              "href": "https://github.com/openmrs/openmrs-module-uilibrary/blob/master/README",
-              "title": "GitHub README"
-            },
-            {
-              "rel": "source",
-              "href": "https://github.com/openmrs/openmrs-module-uilibrary"
-            }
-          ]
+          "version": "2.0.4"
         },
         {
           "uid": "org.openmrs.module.uiframework",
