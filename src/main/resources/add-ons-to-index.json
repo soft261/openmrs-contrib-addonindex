@@ -7061,18 +7061,7 @@
         },
         {
           "uid": "org.openmrs.module.uicommons",
-          "version": "2.3.0",
-          "links": [
-            {
-              "rel": "documentation",
-              "href": "https://wiki.openmrs.org/display/docs/EMR+Monitor+Module",
-              "title": "OpenMRS Wiki"
-            },
-            {
-              "rel": "source",
-              "href": "https://github.com/openmrs/openmrs-module-uicommons"
-            }
-          ]
+          "version": "2.3.0"
         },
         {
           "uid": "org.openmrs.module.uilibrary",
