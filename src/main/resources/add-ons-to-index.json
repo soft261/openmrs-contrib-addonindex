@@ -5901,6 +5901,10 @@
           "rel": "documentation",
           "href": "https://wiki.openmrs.org/display/projects/OpenMRS-DHIS2+Integration+Module+-+User+Guide",
           "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://github.com/openmrs/openmrs-module-dhisreport/tree/shr"
         }
       ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
