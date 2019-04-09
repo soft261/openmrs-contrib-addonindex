@@ -3558,6 +3558,17 @@
           "name": "harshadura"
         }
       ],
+      "links": [
+        {
+          "rel": "documentation",
+          "href": "https://wiki.openmrs.org/display/projects/Patient+Narratives+Module+-+Detailed+Guide",
+          "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "http://goo.gl/EhhnBO"
+        }
+      ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
       "bintrayPackageDetails": {
         "owner": "openmrs",
@@ -3954,6 +3965,10 @@
           "rel": "documentation",
           "href": "https://wiki.openmrs.org/display/docs/RemoteFormEntry+Module",
           "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://bintray.com/openmrs/omod/remoteformentry"
         }
       ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
@@ -5912,6 +5927,10 @@
           "rel": "documentation",
           "href": "https://wiki.openmrs.org/display/projects/OpenMRS-DHIS2+Integration+Module+-+User+Guide",
           "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://github.com/openmrs/openmrs-module-dhisreport/tree/shr"
         }
       ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
@@ -6525,6 +6544,10 @@
           "rel": "documentation",
           "href": "https://wiki.openmrs.org/display/docs/Notifiable+Condition+Detector+%28NCD%29+Module",
           "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://github.com/thomasshunter/openmrs-module-ncd"
         }
       ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
@@ -6602,18 +6625,7 @@
         },
         {
           "uid": "org.openmrs.module.admin-ui-module",
-          "version": "1.2.3",
-          "links": [
-            {
-              "rel": "documentation",
-              "href": "https://wiki.openmrs.org/display/docs/Admin+UI+Module",
-              "title": "OpeMRS Wiki"
-            },
-            {
-              "rel": "source",
-              "href": "https://addons.openmrs.org/show/org.openmrs.module.admin-ui-module"
-            }
-          ]
+          "version": "1.2.3"
         },
         {
           "uid": "org.openmrs.module.allergy-ui-module",
@@ -6769,18 +6781,7 @@
         },
         {
           "uid": "org.openmrs.module.uiframework",
-          "version": "3.13.0",
-          "links": [
-            {
-              "rel": "documentation",
-              "href": "https://wiki.openmrs.org/display/docs/UI+Framework",
-              "title": "OpenMRS Wiki"
-            },
-            {
-              "rel": "source",
-              "href": "https://github.com/openmrs/openmrs-module-uiframework"
-            }
-          ]
+          "version": "3.13.0"
         },
         {
           "uid": "org.openmrs.module.uilibrary",
@@ -7094,18 +7095,7 @@
         },
         {
           "uid": "org.openmrs.module.uicommons",
-          "version": "2.3.0",
-          "links": [
-            {
-              "rel": "documentation",
-              "href": "https://wiki.openmrs.org/display/docs/User+Interface+Modules",
-              "title": "OpenMRS Wiki"
-            },
-            {
-              "rel": "source",
-              "href": "https://github.com/openmrs/openmrs-module-uicommons"
-            }
-          ]
+          "version": "2.3.0"
         },
         {
           "uid": "org.openmrs.module.uilibrary",
