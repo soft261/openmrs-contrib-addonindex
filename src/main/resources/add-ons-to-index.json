@@ -3954,6 +3954,10 @@
           "rel": "documentation",
           "href": "https://wiki.openmrs.org/display/docs/RemoteFormEntry+Module",
           "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://bintray.com/openmrs/omod/remoteformentry"
         }
       ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
