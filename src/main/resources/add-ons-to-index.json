@@ -3563,10 +3563,6 @@
           "rel": "documentation",
           "href": "https://wiki.openmrs.org/display/projects/Patient+Narratives+Module+-+Detailed+Guide",
           "title": "OpenMRS Wiki"
-        },
-        {
-          "rel": "source",
-          "href": "http://goo.gl/EhhnBO"
         }
       ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
