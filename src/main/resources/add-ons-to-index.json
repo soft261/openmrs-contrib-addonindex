@@ -876,6 +876,17 @@
           "name": "jenn"
         }
       ],
+      "links": [
+        {
+          "rel": "documentation",
+          "href": "https://wiki.openmrs.org/display/projects/Advanced+Concept+Management+Module",
+          "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://github.com/openmrs/openmrs-module-conceptmanagementapps"
+        }
+      ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
       "bintrayPackageDetails": {
         "owner": "openmrs",
@@ -2899,6 +2910,17 @@
         },
         {
           "name": "Rafal Korytkowski"
+        }
+      ],
+      "links": [	
+        {
+          "rel": "documentation",
+          "href": "https://wiki.openmrs.org/display/docs/Metadata+Mapping+Module",
+          "title": "OpenMRS Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://github.com/openmrs/openmrs-module-metadatamapping"
         }
       ],
       "backend": "org.openmrs.addonindex.backend.Bintray",
